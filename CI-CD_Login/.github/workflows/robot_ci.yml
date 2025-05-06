@@ -27,4 +27,4 @@ jobs:
 
     - name: Run Robot Tests
       run: |
-        robot CI-CD_Login/
+        robot login_test.robot
